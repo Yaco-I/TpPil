@@ -24,3 +24,8 @@ La aplicación debería iniciarse en el navegador en la dirección http://localh
 ### Contribución
 Si deseas contribuir a este proyecto, por favor lee nuestras directrices de contribución.
 
+### Contribuidores
+Franco, Basulado
+Yaco, Ibars
+
+Franco basualdo no tiene ningun commit ya que trabajamos en un repositorio en bitbucket(porque un problema con su computadora y github).
